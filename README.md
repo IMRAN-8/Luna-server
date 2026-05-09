@@ -23,7 +23,7 @@ The goal of this project is to connect **IoT hardware** with **AI services** and
 ## How It Works
 
 User Voice
-   ↓
+    ↓
 ESP32 Microphone
    ↓
 Luna AI Server
