@@ -22,7 +22,7 @@ The goal of this project is to connect **IoT hardware** with **AI services** and
 
 ## How It Works
 
----txt
+```txt
 User Voice
     ↓
 ESP32 Microphone
