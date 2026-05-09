@@ -66,7 +66,7 @@ Project Status
 This project is currently under development.
 More features, documentation, and hardware demos will be added gradually.
 ```
-Author
+Author : 
 Imran
 ```
 GitHub: IMRAN-8
